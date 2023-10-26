@@ -9,7 +9,11 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "@payloadcms/bundler-webpack": "^1.0.4",
+    "@payloadcms/db-postgres": "^0.1.10",
     "@payloadcms/next-payload": "^0.1.8",
+    "@payloadcms/plugin-search": "^1.0.1",
+    "@payloadcms/richtext-lexical": "^0.1.15",
     "next": "13.5.6",
     "payload": "^2.0.13",
     "react": "^18",
